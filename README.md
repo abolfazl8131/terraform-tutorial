@@ -279,7 +279,7 @@ If you have difficulties to connect to youtube there is an alternative way, you 
 | 009     | Terraform remote backend                                                   | [009](https://github.com/devopshobbies/terraform-tutorial/tree/v009) | [watch](https://youtu.be/yZQdhRil6TM) |
 | 010     | terraform import and state rm                                              | [010](https://github.com/devopshobbies/terraform-tutorial/tree/v010) | [watch](https://youtu.be/CBHYhMlq6Qc) |
 | 011     | terraform 011 create your first module                                     | [011](https://github.com/devopshobbies/terraform-tutorial/tree/v011) | [watch](https://youtu.be/kJnmaVRbLdI) |
-| 012     | terraform last episode                                                     | [012](https://github.com/devopshobbies/terraform-tutorial/tree/v012) | -                                     |
+| 012     | terraform last episode                                                     | [012](https://github.com/devopshobbies/terraform-tutorial/tree/v012) | [watch](https://youtu.be/GOA_PcvtRqw) |
 
 ## Related courses:
 
